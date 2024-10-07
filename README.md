@@ -29,8 +29,6 @@ It's perfect.
 
 ## Calculations
 
-We use index, because min value is 0 and max - 255.
-
 - 2 ^ 5 = 1f (32nd value of hex)
 - 2 ^ 6 = 3f (64th)
 - 2 ^ 7 = 7f (128th)
